@@ -11,9 +11,6 @@ class Main {
       if(randNum >= 0)
         for (int i = randNum; i >= 0; i--)
         System.out.println(i);
-      else if (randNum < 0)
-        for (int i = randNum; i <= 0; i++)
-        System.out.println(i);        
 
     if(randNum <= 5)
       System.out.println("Ahoy Mateys!");
